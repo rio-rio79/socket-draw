@@ -102,7 +102,6 @@ document.getElementById("downloadBtn").addEventListener("click", () => {
     link.click();
 });
 
-
 // ------------------------------
 // 🌐 Socket.IO 受信イベント
 // ------------------------------
